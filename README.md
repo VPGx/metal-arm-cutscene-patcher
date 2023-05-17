@@ -1,4 +1,4 @@
-# metal-arm-cutscenes-patcher
+# Metal Arms Cutscene Patcher
 Patcher for MA: GITS Roms in order to Skip Cutscenes for speedrunning purposes.
 
 Usage:
