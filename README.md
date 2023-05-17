@@ -5,9 +5,11 @@ Usage:
 **script.py input.xbe [output]**
 
 Arguments:
+
 input - The XBE you want to patch (commonly named default.xbe)
 
 Optional Arguments:
+
 output - The output file (if ignored, the script will write the modified xbe to cutscene_skip.xbe)
 
 
