@@ -12,4 +12,5 @@ output - The output file (if ignored, the script will write the modified xbe to 
 
 
 *ALTERNATIVELY*
+
 **YOU CAN ALSO DRAG AND DROP YOUR XBE ONTO THE SCRIPT AND IT WILL AUTOMATICALY PATCH AND EXPORT TO cutscene_skip.xbe**
